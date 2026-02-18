@@ -1,0 +1,128 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "services": "Services",
+        "why_us": "Why Us",
+        "blog": "Blog",
+        "contact": "Contact",
+        "book_consultation": "Book Consultation"
+    },
+    "hero": {
+        "tagline": "Expert Legal Representation",
+        "title_part1": "Justice Begins With",
+        "title_part2": "A Confident Step",
+        "description": "Solid legal expertise and strategic solutions to protect your rights with the highest standards of professionalism, led by Dr. Gamal Aboudeif, Cassation Attorney and International Arbitrator.",
+        "cta_primary": "Book Consultation",
+        "cta_secondary": "Contact Us"
+    },
+   "about": {
+    "label": "Who We Are",
+    "title": "Dr. Gamal Aboudeif Law Firm",
+    "subtitle": "For Legal Consultancy & International Arbitration",
+    "desc_p1": "A leading international legal institution headed by Dr. Gamal Aboudeif, Cassation Attorney and International Arbitrator, and President of the Aboudeif Center for Arbitration. We are proud members of the International Bar Association (London) and the Arab Lawyers Union.",
+    "desc_p2": "We possess a proven track record in managing major disputes, successfully settling international arbitration cases worth nearly $2 billion. Our expertise extends to preparing arbitration notifications before international organizations (OIC) for massive investment disputes.",
+    "stat_years": "Years of Experience",
+    "stat_cases": "Arbitration Value",
+    "image_name": "Dr. Gamal Aboudeif",
+    "image_title": "Founder & Managing Partner"
+},
+"why_us": {
+    "title": "Why Choose Us?",
+    "subtitle": "Excellence Through Decades",
+    "card1_title": "Legacy Since 1980",
+    "card1_desc": "Legal expertise spanning over 4 decades, starting with top honors in class of 1980.",
+    "card2_title": "Exceptional Results",
+    "card2_desc": "A proven track record, including settling international arbitration cases worth over $2 billion.",
+    "card3_title": "Global Network",
+    "card3_desc": "Strategic partnerships with major law firms in London & Luxembourg, and international memberships.",
+    "card4_title": "Academic & Legal Mastery",
+    "card4_desc": "Leadership combining practical experience with academic precision (PhD in Philosophy of Law - London)."
+},
+"services": {
+    "section_subtitle": "Practice Areas",
+    "section_title": "Our Legal Services",
+    "section_desc": "We cover all legal aspects to provide comprehensive protection and ongoing support in various cases, locally and internationally.",
+    "arbitration_title": "Intl. & Local Arbitration",
+    "arbitration_desc": "Settling commercial and investment disputes through arbitration as an effective alternative to litigation.",
+    "corporate_title": "Corporate & Investment",
+    "corporate_desc": "Company formation, drafting commercial contracts, and resolving foreign and local investment disputes.",
+    "cassation_title": "Cassation & Supreme Courts",
+    "cassation_desc": "High-level representation before the Court of Cassation, Constitutional Court, and High Administrative Court.",
+    "criminal_title": "Criminal Cases",
+    "criminal_desc": "Strong defense and precise strategies in various criminal cases and financial crimes.",
+    "civil_title": "Civil Litigation",
+    "civil_desc": "Comprehensive legal representation in civil disputes, compensation, and contracts.",
+    "family_title": "Family Law",
+    "family_desc": "Handling personal status cases with complete privacy and understanding."
+},
+"team": {
+    "title": "Our Team",
+    "subtitle": "A selection of specialized legal competencies protecting our clients' interests",
+    "member1_name": "Dr. Gamal Aboudeif",
+    "member1_job": "Founder & Managing Partner",
+    "member2_name": "Ahmed Abdelsalam",
+    "member2_job": "Senior Counsel - Arbitration",
+    "member3_name": "Sarah Al-Mansouri",
+    "member3_job": "Partner - Corporate Law",
+    "member4_name": "Khaled Youssef",
+    "member4_job": "Senior Attorney - Cassation"
+},
+"videos": {
+    "title": "Video Library",
+    "subtitle": "Watch our legal explanations and latest professional advice",
+    "main_video_title": "Our Legal Vision for Justice",
+    "main_video_date": "Introductory Video 2026",
+    "video_1": "Company Formation Procedures",
+    "video_2": "New Labor Law Explained",
+    "video_3": "Firm Introduction"
+},
+"cta": {
+    "title": "Do You Need Immediate Legal Consultation?",
+    "subtitle": "Do not hesitate to seek help; our team is ready to provide the legal support you need now.",
+    "button": "Book Your Appointment Now"
+},
+"blog": {
+    "section_title": "Legal Blog",
+    "view_all": "View All Articles",
+    "read_more": "Read More",
+    "article1_title": "Employee Rights Under New Labor Law",
+    "article1_cat": "Labor Law",
+    "article1_date": "February 12, 2026",
+    "article1_desc": "Learn about the key amendments to the labor law and how they affect your rights as an employee.",
+    "article2_title": "Legal Steps to Start a Startup",
+    "article2_cat": "Company Formation",
+    "article2_date": "February 10, 2026",
+    "article2_desc": "A comprehensive guide to the legal procedures needed to start your business safely and correctly.",
+    "article3_title": "Inheritance Lawsuits Procedures",
+    "article3_cat": "Personal Status",
+    "article3_date": "February 05, 2026",
+    "article3_desc": "How to secure your inheritance rights? A simplified explanation of legal procedures in courts."
+},
+"contact": {
+    "title": "Book a Consultation",
+    "subtitle": "Fill out the form below and our team will contact you to schedule an appointment.",
+    "label_name": "Full Name",
+    "placeholder_name": "John Doe",
+    "label_phone": "Phone Number",
+    "placeholder_phone": "+201xxxxxxxxx",
+    "label_email": "Email Address",
+    "placeholder_email": "email@example.com",
+    "label_service": "Service Type",
+    "placeholder_service": "Select Service Type",
+    "label_message": "Message (Optional)",
+    "placeholder_message": "More details about your case...",
+    "btn_submit": "Confirm Booking"
+},
+"footer": {
+    "title": "We Are Here To Serve You",
+    "subtitle": "You can contact us via phone or email, or visit our office during official working hours.",
+    "address_label": "Address",
+    "address_value": "53 Mostafa El-Nahas St - Nasr City - Cairo",
+    "phone_label": "Phone",
+    "phone_value": "+20 100 186 4410",
+    "email_label": "Email Address",
+    "whatsapp_btn": "Chat on WhatsApp",
+    "copyright": "All Rights Reserved © 2026 - Dr. Gamal Aboudeif Law Firm"
+}
+}
