@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
 import axios from 'axios';
 import { toast, Toaster } from 'react-hot-toast';
-
+import { api } from '../api/axios';
 const ContactForm = () => {
   const { t } = useTranslation();
   const [loading, setLoading] = useState(false);
@@ -35,7 +35,7 @@ const ContactForm = () => {
     }
 
     try {
-      await axios.post('http://localhost:5000/api/contact', formData);
+      await axios.post('/contact', formData);
       toast.success(t('contact.success_message') || "تم استلام رسالتك بنجاح وسنتواصل معك قريباً");
       // تصفير النموذج
       setFormData({ name: '', phone: '', email: '', service: '', message: '' });
@@ -182,5 +182,6 @@ const ContactForm = () => {
     </section>
   );
 };
+
 
 export default ContactForm;
