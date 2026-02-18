@@ -2,13 +2,13 @@ import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
 import axios from 'axios';
-
+import { api } from '../api/axios';
 const About = () => {
   const { i18n } = useTranslation();
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    axios.get('http://localhost:5000/api/about')
+    axios.get('/about')
       .then(res => setData(res.data))
       .catch(err => console.error(err));
   }, []);
@@ -105,5 +105,6 @@ const About = () => {
     </section>
   );
 };
+
 
 export default About;
